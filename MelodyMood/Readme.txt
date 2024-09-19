@@ -1,4 +1,4 @@
-Koda spotfiydan alınan user id ile secret user id girilmelidir aksi takdirde spotifydan müzik çekilemez.
+
 İlk önce gereklilikler içindeki python yüklenip ardından requirements dosyası çalıştırılmalıdır.
 çalıştırıldıktan sonra bütün kütüphaneler yüklendi uyarısına kadar bekleyiniz.
 daha sonra exe adlı bat dosyasını çalıştırarak uygulamayı açabilirsiniz.
