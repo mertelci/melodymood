@@ -1,0 +1,10 @@
+username,password,age,gender,country,email
+usernam,sifre,mail,1,Erkek,ulke
+usernamas,sifre,mail,1,Erkek,ulke
+usernamasas,sifre,mail,1,Erkek,ulke
+as,as,mail,1,Erkek,ulke
+asas,as,1,Erkek,ulke,mail
+asasasas,as,1,Erkek,as,mail
+admin,123,1,Erkek,tr,kairosehack@hotmail.com
+kullanıcı1,123,1,Erkek,tr,kullanıcı1@example.com
+mertelci,elcimert,23,Erkek,Türkiye,mert.elci@tedu.edu.tr
