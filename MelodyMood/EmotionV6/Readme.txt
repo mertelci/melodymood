@@ -1,9 +1,4 @@
 
-Hocam birde önermeden sonra modumu değiştir buttonuyla tam zıttını mesela mutluysa üzgün olacak şekilde bir button ekleyebilirsek
-Birde hocam manuel bir şekilde dinleme şansımız olabilir mi
-
-
-
 ------------------------------------------------------
 
 KNOWN BUGS 
